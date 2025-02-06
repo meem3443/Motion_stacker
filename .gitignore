@@ -1,0 +1,9 @@
+# IntelliJ IDEA/JetBrains 관련 파일 무시
+.idea/
+*.iml
+
+# macOS에서 생성되는 파일 무시
+.DS_Store
+
+# 기타 IDE, 에디터 관련 파일 무시 (VS Code 등)
+.vscode/
